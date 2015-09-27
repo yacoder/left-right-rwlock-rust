@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/yacoder/left-right-rwlock-rust.svg)](https://travis-ci.org/yacoder/left-right-rwlock-rust)
+
 This crate provides an implementation of the Left-Right concurrency technique
 as described in [the paper by Pedro Ramalhete & Andreia Correia](https://github.com/pramalhe/ConcurrencyFreaks/blob/master/papers/left-right-2014.pdf).
 
