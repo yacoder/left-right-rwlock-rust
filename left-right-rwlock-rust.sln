@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{78C9907C-C22D-4F8D-B13A-49F213FF1631}") = "left-right-rwlock-rust", "left-right-rwlock-rust.rsproj", "{0631F2FC-6E5B-47D2-BCBC-9E746BE75C5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|default = Debug|default
+		Release|default = Release|default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0631F2FC-6E5B-47D2-BCBC-9E746BE75C5E}.Debug|default.ActiveCfg = Debug|default
+		{0631F2FC-6E5B-47D2-BCBC-9E746BE75C5E}.Debug|default.Build.0 = Debug|default
+		{0631F2FC-6E5B-47D2-BCBC-9E746BE75C5E}.Release|default.ActiveCfg = Release|default
+		{0631F2FC-6E5B-47D2-BCBC-9E746BE75C5E}.Release|default.Build.0 = Release|default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
